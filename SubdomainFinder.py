@@ -1,4 +1,4 @@
-#!/usr/bin/env 'python -u'
+#!/usr/bin/env python3
 # coding: utf-8
 
 import requests, time, json, hashlib, argparse, sys
