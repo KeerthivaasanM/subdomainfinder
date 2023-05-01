@@ -29,7 +29,3 @@ The reason for writing this tool is that my computer can't use Sublist3r, I don'
 | -d | --domain | Domain name to enumerate subdomains of |
 | -o | --output | Output file name ,the domain name is thefile_name.txt |
 | -html | --html | Output html, the domain name is the file_name.html |
-
-
-
-s
